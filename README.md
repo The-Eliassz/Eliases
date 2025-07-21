@@ -17,4 +17,7 @@
 Install dependencies:
 ```bash
 sudo apt update
-xargs -a requirements.txt sudo apt install -y
+git clone https://github.com/The-Eliassz/Eliases.git
+
+cd Eliases/
+python3 requirements.py
