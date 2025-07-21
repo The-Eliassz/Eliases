@@ -2,7 +2,7 @@
 
 🎯 Realtime Linux Defender Tool for Attack & Defense Environments
 
-![banner](https://raw.githubusercontent.com/yourusername/eliassz-defender/main/assets/banner.png)
+![banner](https://github.com/The-Eliassz/Eliases/blob/main/banner.png)
 
 ## ✨ Features
 - 🟢 Realtime Login Monitoring
