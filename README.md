@@ -1,4 +1,4 @@
-# Eliassz Defender CLI
+# Eliassz Defender Automations
 
 🎯 Realtime Linux Defender Tool for Attack & Defense Environments
 
