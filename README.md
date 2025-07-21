@@ -28,6 +28,6 @@ chmod +x monitor.sh
 ````
 ## License
 This project is licensed under the GNU GPLv3 License.  
-See the [LICENSE](LICENSE) file for full license text.
+See the [LICENSE](https://github.com/The-Eliassz/Eliases/blob/main/License) file for full license text.
 
 ## ✨Enjoy!✨
