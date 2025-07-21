@@ -1,5 +1,18 @@
 #!/bin/bash
 
+# Eliassz Realtime Defender Monitoring Tool
+# Copyright (C) 2025 Eliassz
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# See <https://www.gnu.org/licenses/>.
+
+
 RED="\e[31m"
 GREEN="\e[32m"
 YELLOW="\e[33m"
