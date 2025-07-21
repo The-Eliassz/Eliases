@@ -21,3 +21,8 @@ git clone https://github.com/The-Eliassz/Eliases.git
 
 cd Eliases/
 python3 requirements.py
+
+chmod +x monitor.sh
+./monitor.sh
+
+##✨Enjoy!✨
