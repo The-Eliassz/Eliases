@@ -26,4 +26,8 @@ chmod +x monitor.sh
 ./monitor.sh
 
 ````
+## License
+This project is licensed under the GNU GPLv3 License.  
+See the [LICENSE](LICENSE) file for full license text.
+
 ## ✨Enjoy!✨
